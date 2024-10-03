@@ -1,2 +1,2 @@
 #!/bin/bash
-streamlit run app_9ps2
+streamlit run app_9p2
